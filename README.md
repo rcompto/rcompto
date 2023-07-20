@@ -1,4 +1,4 @@
-Hi! Eu sou a Rafael Compto, Analista de Rede e pesquisador!
+Hi! Eu sou Rafael Compto, Analista de Rede e pesquisador!
 Iniciante aqui no Github 💻📚
 
 <picture>
